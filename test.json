@@ -1,0 +1,49 @@
+{
+  "secret": "[Hidden]",
+  "minutes": 20,
+  "link": "http:\/\/www.1.com",
+  "bookmark_collection": {
+    "free_link": {
+      "name": "#free_link#",
+      "bookmarks": [
+        {
+          "name": "1",
+          "link": "http:\/\/www.1.com"
+        },
+        {
+          "name": "2",
+          "link": "http:\/\/2.dk"
+        },
+        {
+          "name": "3",
+          "link": "http:\/\/www.3.in"
+        }
+      ]
+    },
+    "boarding_pass": {
+      "name": "Boarding Pass",
+      "bookmarks": [
+        {
+          "name": "1",
+          "link": "http:\/\/www.1.com\/"
+        },
+        {
+          "name": "2",
+          "link": "http:\/\/www.2.com\/"
+        },
+        {
+          "name": "3",
+          "link": "http:\/\/www.3.hk"
+        }
+      ]
+    },
+    "sublinks": {
+      "name": "sublinks",
+      "link": [
+        "http:\/\/www.1.com",
+        "http:\/\/www.2.com",
+        "http:\/\/www.3.com"
+      ]
+    }
+  }
+}
